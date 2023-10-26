@@ -366,3 +366,6 @@ C:\dev\Teste\WebTest\WebTestUnit\obj\Debug\net6.0\WebTest.Tests.pdb
 C:\dev\Teste\WebTest\WebTestUnit\obj\Debug\net6.0\WebTest.Tests.genruntimeconfig.cache
 C:\dev\Teste\WebTest\WebTestUnit\obj\Debug\net6.0\ref\WebTest.Tests.dll
 C:\dev\Teste\WebTest\WebTestUnit\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\dev\ApiRest\obj\Debug\net6.0\WebTest.Tests.dll
+C:\dev\ApiRest\obj\Debug\net6.0\refint\WebTest.Tests.dll
+C:\dev\ApiRest\obj\Debug\net6.0\WebTest.Tests.pdb
